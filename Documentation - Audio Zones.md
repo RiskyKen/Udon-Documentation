@@ -1,6 +1,6 @@
 # Documentation - Audio Zones
 
-[Main](..) > [Documentation - Audio Zones](#documentation---audio-zones)
+[Main](/) > [Documentation - Audio Zones](#documentation---audio-zones)
 
 ## Contents
 
