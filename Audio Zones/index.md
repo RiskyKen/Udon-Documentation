@@ -2,10 +2,14 @@
 
 [Main](../) > [Documentation - Audio Zones](#documentation---audio-zones)
 
-## Contents
+# Contents
 
+- [Script Info](#script-info)
+  - [Features](#features)
 - [Installation](#installation)
-- [Prefabs Location](#prefabs-location)
+  - [Creator Companion](#creator-companion)
+  - [Unity Package](#unity-package)
+- [Examples Location](#examples-location)
 - [Audio Occlusion](#audio-occlusion)
   - [Adding Audio Occlusion](#adding-audio-occlusion)
   - [Custom Audio Settings](#custom-audio-settings)
@@ -19,24 +23,39 @@
   - [Audio Block Only](#audio-block-only)
   - [Wall Replacement](#wall-replacement)
 
-## Installation
+# Script Info
 
-**!!! - Important install [RiskyKen - Core](https://payhip.com/b/cg4tN) first - !!!**
+Audio occlusion system for player voices and avatars.
+
+## Features
+
+- Block the audio of player and avatars behind objects like walls.
+- Easy to toggle the system by turning the manager on/off.
+- Audio boost area/pickups, ideal for DJs or event staff.
+- Audio channels to segregate player audio.
+
+# Installation
+
+Download the package files from [PayHip](https://payhip.com/b/lEJRc).
+
+The download comes with 2 versions, Creator Companion (`VRC CC.zip`) and a Unity Package (`PACKAGE.unitypackage`). The Creator Companion version is recommended.
+
+**!!! - ONLY INSTALL 1 VERSION - !!!**
+
+## Creator Companion
 
 Creator Companion Install: [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54/edit)
 
-Unity Package Install: [Package Install - Unity](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8/edit)
+## Unity Package
 
-## Prefabs Location
-Some parts of the documentation will refer to prefabs that come with Audio Zones. See below for how to find them.
+Unity Package Install: [Package Install - Unity Package](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8/edit)
 
-Package install prefabs this will be under: `Assets\RiskyKen\Udon\Utils\Audio Zones\Examples\Prefabs`  
-![ab2b35533f99fa923b3b95249f4624de.png](resources/ab2b35533f99fa923b3b95249f4624de.png)
+# Examples Location
+Some parts of the documentation will refer to files inside the examples directory. See below for how to find them.
 
+Unity Package install examples this will be under: `Assets\RiskyKen\Udon\Utils\Audio Zones\Examples`  
 
-Creator Companion install prefabs will be under: `Packages\RiskyKen - Audio Zones\Examples\Prefabs`  
-![Unity_2023-06-13_01-29-52.png](resources/Unity_2023-06-13_01-29-52.png)
-
+Creator Companion install examples will be under: `Packages\RiskyKen - Audio Zones\Examples`  
 
 ## Audio Occlusion
 
