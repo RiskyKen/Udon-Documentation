@@ -7,7 +7,7 @@
 
 ## Documents
 
-- RiskyKen - Core  
+- [RiskyKen Core](RiskyKen Core)  
 <br/>
 - Air Jumps
 - [Audio Zones](Audio Zones)
