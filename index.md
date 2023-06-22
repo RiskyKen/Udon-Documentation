@@ -10,7 +10,7 @@
 - RiskyKen - Core  
 <br/>
 - Air Jumps
-- [Audio Zones](Documentation - Audio Zones)
+- [Audio Zones](Audio Zones)
 - Battle Shots
 - Compatibility Test
 - Match 4
