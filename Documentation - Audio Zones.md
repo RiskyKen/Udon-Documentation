@@ -1,6 +1,6 @@
 # Documentation - Audio Zones
 
-[Main](/Udon-Documentation) > [Documentation - Audio Zones](#documentation---audio-zones)
+[Main](/Udon-Documentation/) > [Documentation - Audio Zones](#documentation---audio-zones)
 
 ## Contents
 

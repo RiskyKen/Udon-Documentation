@@ -1,8 +1,30 @@
 # RiskyKen's Udon Documentation
 
+## Install Guides
+
+- Package Install - Unity
+- Package Install - VRChat Creator Companion
+
 ## Documents
 
-- [Documentation - Audio Zones](Documentation - Audio Zones)
+- RiskyKen - Core
+* * *
+- Air Jumps
+- [Audio Zones](Documentation - Audio Zones)
+- Battle Shots
+- Compatibility Test
+- Match 4
+- Object Group Switch
+- Object Toggle Tool
+- Permission System
+- Pickup Respawn
+- Player Icons
+- Scavenger Hunt
+- Shot Roulette 
+- Slider Puzzle
+- Smart Mirror
+- Spawn Sound
+- Sticky Pickups
 
 ## Links
 
