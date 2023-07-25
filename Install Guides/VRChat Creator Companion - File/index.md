@@ -2,7 +2,8 @@
 
 ## Install Guides
 
-- [Install Guides](Install Guides)
+- [Package Install - Unity](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8)
+- [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54)
 
 ## Documents
 
