@@ -2,31 +2,16 @@
 
 [Main](../../) > [Install Guides](../) > VRChat Creator Companion - Repo
 
-## Install Guides
+Note if the VCC URL for all my free packages is `https://plushie.moe/vpm/free/package.json`
 
-- [Package Install - Unity](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8)
-- [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54)
+https://plushie.moe/vpm/free.html
 
-## Documents
+## Install
 
-- [RiskyKen Core](RiskyKen Core)  
-<br/>
-- Air Jumps
-- [Audio Zones](Audio Zones)
-- Battle Shots
-- Compatibility Test
-- Match 4
-- Object Group Switch
-- Object Toggle Tool
-- Permission System
-- Pickup Respawn
-- Player Icons
-- Scavenger Hunt
-- Shot Roulette 
-- Slider Puzzle
-- Smart Mirror
-- Spawn Sound
-- Sticky Pickups
+1. In Creator Companion click ***Settings > Packages > Add Repository***.
+2. Paste in the VCC URL that comes with the package.
+3. Press Added then I Understand.
+4. Now go back to Projects, select Manage Project and add the package from the list.
 
 ## Links
 

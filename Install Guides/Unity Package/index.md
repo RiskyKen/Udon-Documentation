@@ -1,30 +1,13 @@
-# RiskyKen's Udon Documentation
+# Install Guide: Unity Package
 
-## Install Guides
+[Main](../../) > [Install Guides](../) > Unity Package
 
-- [Package Install - Unity](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8)
-- [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54)
+## Install
 
-## Documents
-
-- [RiskyKen Core](RiskyKen Core)  
-<br/>
-- Air Jumps
-- [Audio Zones](Audio Zones)
-- Battle Shots
-- Compatibility Test
-- Match 4
-- Object Group Switch
-- Object Toggle Tool
-- Permission System
-- Pickup Respawn
-- Player Icons
-- Scavenger Hunt
-- Shot Roulette 
-- Slider Puzzle
-- Smart Mirror
-- Spawn Sound
-- Sticky Pickups
+1. Install [UdonSharp](https://github.com/vrchat-community/UdonSharp/releases/)
+2. Install [RiskyKen - Core](https://payhip.com/b/cg4tN)
+3. In the Unity editor click Assets > Import Package > Custom Package.
+4. Now browse to the location of the package and select it.
 
 ## Links
 
