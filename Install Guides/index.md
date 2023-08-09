@@ -1,17 +1,22 @@
-# Install Guide: Unity Package
+# Install Guides
 
-[Main](../../) > [Install Guides](../) > Unity Package
+[Main](../) > Install Guides  
 
-## Info
+Depending on the package it will come with 1 or more of the following files.
 
-Most of my script require require [RiskyKen - Core](https://payhip.com/b/cg4tN). You must install this first.
+- Creator Companion - Repository (`VRC CC.txt`)
+- Creator Companion - User Package (`VRC CC.zip`)
+- Unity Package (`PACKAGE.unitypackage`)
 
-## Install
+**!!! - ONLY INSTALL 1 VERSION - !!!**
 
-1. Install [UdonSharp](https://github.com/vrchat-community/UdonSharp/releases/)
-2. Install [RiskyKen - Core](https://payhip.com/b/cg4tN)
-3. In the Unity editor click Assets > Import Package > Custom Package.
-4. Now browse to the location of the package and select it.
+The **Creator Companion - Repository** version is highly recommended if it's included with the package.
+
+## Install Methods
+
+- [VRChat Creator Companion - Repository](VRChat Creator Companion - Repository)
+- [VRChat Creator Companion - User Package](VRChat Creator Companion - User Package)
+- [Unity Package](Unity Package)
 
 ## Links
 
