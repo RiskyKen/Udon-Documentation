@@ -2,6 +2,10 @@
 
 [Main](../../) > [Install Guides](../) > Unity Package
 
+## Info
+
+Most of my script require require [RiskyKen - Core](https://payhip.com/b/cg4tN). You must install this first.
+
 ## Install
 
 1. Install [UdonSharp](https://github.com/vrchat-community/UdonSharp/releases/)
