@@ -36,7 +36,7 @@ Audio occlusion system for player voices and avatars.
 
 # Installation
 
-See [Install Guides](https://riskyken.github.io/Udon-Documentation/Install%20Guides/) for help installing.
+See [Install Guides](https://riskyken.github.io/Udon-Documentation/Install%20Guides/) for installation instructions.
 
 # Examples Location
 Some parts of the documentation will refer to files inside the examples directory. See below for how to find them.

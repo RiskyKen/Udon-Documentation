@@ -25,19 +25,7 @@ Core scripts, needed for my scripts to run.
 
 # Installation
 
-Download the package files from [PayHip](https://payhip.com/b/cg4tN).
-
-The download comes with 2 versions, Creator Companion (`VRC CC.zip`) and a Unity Package (`PACKAGE.unitypackage`). The Creator Companion version is recommended.
-
-**!!! - ONLY INSTALL 1 VERSION - !!!**
-
-## Creator Companion
-
-Creator Companion Install: [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54/edit)
-
-## Unity Package
-
-Unity Package Install: [Package Install - Unity Package](https://docs.google.com/document/d/1yboKFSFRh2EmqESxKq5EaR8c1rdlEN4MOUtkxcWexD8/edit)
+See [Install Guides](https://riskyken.github.io/Udon-Documentation/Install%20Guides/) for installation instructions.
 
 # Examples Location
 Some parts of the documentation will refer to files inside the examples directory. See below for how to find them.
