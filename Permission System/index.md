@@ -24,23 +24,39 @@ Script to handle permissions of players in a world.
 
 ## Features
 
-- Custom Groups
+### Custom Groups
+
+- Create any number of custom groups for Staff, VIPs, Supporters, Friends or whatever you like.
+- Build in instance master and instance owner groups. Ideal for game worlds.
+
+### World Actions
+
+- Toggle Game Objects
+- Change intractability of buttons (script and UI)
+- Change Materials
+- Change Meshes
+- Press Buttons
+- Call Events
+- Change Tooltips
+- Toggle Colliders
+- Update Animator Bool
+- Change UI Text Colour
+- Change UI Image Colour
+- Change UI Toggle State
 - Edit World Items
-  - Toggle Game Objects
-  - Change intractability of buttons (script and UI)
-  - Change Materials
-  - Change Meshes
-  - Press Buttons
-  - Call Events
-  - Change Tooltips
-  - Toggle Colliders
-  - Update Animator Bool
-  - Change UI Text Colour
-  - Change UI Image Colour
-  - Change UI Toggle State
-- Display List
-- Guest Access
-- Join Audio
+
+### Join Audio
+
+- Play different audio file when players from different groups join the world.
+
+### Group Display
+
+- Displays a list of all the players in a group.
+- Highlight group players that are in the world.
+
+### Guest Access
+
+- Give players temporary access to a group.
 
 # Installation
 
