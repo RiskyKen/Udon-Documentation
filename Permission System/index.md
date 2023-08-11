@@ -43,7 +43,6 @@ Script to handle permissions of players in a world.
 - Change UI Text Colour
 - Change UI Image Colour
 - Change UI Toggle State
-- Edit World Items
 
 ### Join Audio
 
