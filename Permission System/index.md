@@ -110,7 +110,7 @@ The other option here colour is purely for organization, I recommend setting a d
 Now that we have created 1 group we can easily make more by right clicking our first group and selecting duplicate. Doing this I have created 3 new groups. Create and groups you need, don't forget to change the text file or URL for the new ones.  
 ![7d3a8705126c4e89b22904d852265b6d.png](resources/7d3a8705126c4e89b22904d852265b6d.png)
 
-The final thing we need to do is select the manager and press `Auto Fill Groups` all your groups should now show in it's permission groups section.
+The final thing we need to do is select the manager and press `Auto Fill Groups` all your groups should now show in it's permission groups section.  
 ![adc83bdab273cca4054610352516f29b.png](resources/adc83bdab273cca4054610352516f29b.png)
 
 #### **!!! --- Important Notes --- !!!**  
