@@ -11,9 +11,9 @@
   - [Unity Package](#unity-package)
 - [Examples Location](#examples-location)
 - [Setup](#)
-  - [Permission Manager](#permission-manager)
+  - [Manager](#manager)
   - [Groups](#groups)
-  - [Permission Item](#permission-item)
+  - [Actions](#actions)
   - [Join Audio](#join-audio)
   - [Display Wall](#display-wall)
   - [Guest Access](#guest-access)
@@ -59,10 +59,10 @@ Creator Companion install examples will be under: `Packages\RiskyKen - Permissio
 The below steps will teach 
 `Examples\Prefabs`
 `Examples\Scenes`
-[Permission Manager](#permission-manager)
+[Manager](#manager)
 [Groups](#groups)
 
-## Manager & Groups
+## Manager
 
 To get started first we need a manager.
 
@@ -92,17 +92,34 @@ A URL can also be used allowing list to be updated without reuploading the world
 
 The other option here colour is purely for organization, I recommend setting a different colour for each group but it's not required.
 
+Now that we have created 1 group we can easily make more by right clicking our first group and selecting duplicate. Doing this I have created 3 new groups. Create and groups you need, don't forget to change the text file or URL for the new ones.  
+![7d3a8705126c4e89b22904d852265b6d.png](resources/7d3a8705126c4e89b22904d852265b6d.png)
+
+The final thing we need to do is select the manager and press `Auto Fill Groups` all your groups should now show in it's permission groups section.
+![adc83bdab273cca4054610352516f29b.png](resources/adc83bdab273cca4054610352516f29b.png)
+
 #### **!!! --- Important Notes --- !!!**  
-Some URLs will only work if the player has untrusted URLs turned on, check [here](https://creators.vrchat.com/worlds/udon/string-loading/) for more information.
-
-VRChat replaces the letters is some usernames. (example Full stops are replaced with [One Dot Leader](https://www.compart.com/en/unicode/U+2024)) Because if this I recommend copy pasting usernames form the VRChat website.  
+- Some URLs will only work if the player has untrusted URLs turned on, check [here](https://creators.vrchat.com/worlds/udon/string-loading/) for more information.
+- VRChat replaces the letters is some usernames. (example Full Stops are replaced with [One Dot Leader](https://www.compart.com/en/unicode/U+2024)) Because if this I recommend copy pasting usernames form the VRChat website.  
 ![waterfox_2023-08-11_21-26-45.gif](resources/waterfox_2023-08-11_21-26-45.gif)
+- Any time groups are added or removed the `Auto Fill Groups` button should be pressed on the manager to update it's group list.
 
-## Permission Item
+## Actions
 
-The toggle script lets us edit items in the world depending on the player groups. Here we will setup a basic object toggle
-Setup permission item
+Now that we have a manager and groups we can add actions to edit the world for users of different groups.
 
+
+
+First create a new object.  (I like creating all my actions inside one object for organization but you can create them anywhere you like)
+![75cccd588d90d35abd18714401e24c44.png](resources/75cccd588d90d35abd18714401e24c44.png)
+
+Now select it and press `Add Component` then search for and add `Permission System - Action`.  
+![9fee28325f0aa950298067d885927e2e.png](resources/9fee28325f0aa950298067d885927e2e.png)
+
+Now you should see a large number of options available to you.  
+![0890a080e4405addc875f4fbea428b9b.png](resources/0890a080e4405addc875f4fbea428b9b.png)  
+At the top we have a link to the manager. Then 3 built in groups that come with the script. Following that 
+[Permission Priorities (Advanced)](#permission-priorities-advanced)
 ## Join Audio
 
 Adding group join audio
