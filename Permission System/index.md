@@ -7,8 +7,6 @@
 - [Script Info](#script-info)
   - [Features](#features)
 - [Installation](#installation)
-  - [Creator Companion](#creator-companion)
-  - [Unity Package](#unity-package)
 - [Examples Location](#examples-location)
 - [Setup](#setup)
   - [Manager](#manager)
