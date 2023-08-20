@@ -10,7 +10,7 @@ Most of my script require require [RiskyKen - Core](https://payhip.com/b/cg4tN).
 
 1. Read the above info or you are going to have a bad time. ^^
 2. In Creator Companion click ***Settings > Packages > Add Repository***.
-3. Paste in the VCC URL that comes with the package. Will be in the text file `VRC CC.txt`
+3. Paste in the VCC URL that comes with the package. Will be in the text file `VRC CC.html`
 4. Press Add then I Understand.
 5. Now go back to Projects, select Manage Project and add the package from the list.
 

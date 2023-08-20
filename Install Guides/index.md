@@ -4,7 +4,7 @@
 
 Depending on the package it will come with 1 or more of the following files.
 
-- Creator Companion - Repository (`VRC CC.txt`)
+- Creator Companion - Repository (`VRC CC.html`)
 - Creator Companion - User Package (`VRC CC.zip`)
 - Unity Package (`PACKAGE.unitypackage`)
 
