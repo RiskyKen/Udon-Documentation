@@ -15,7 +15,7 @@
 - Match 4
 - Object Group Switch
 - Object Toggle Tool
-- Permission System
+- [Permission System](Permission System)
 - Pickup Respawn
 - Player Icons
 - Scavenger Hunt
