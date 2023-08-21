@@ -124,7 +124,7 @@ Now we can select an audio to play in audio clips and set the groups we want thi
 
 The `Play for All` check box will, play the join audio for all players when someone joins.
 
-The other option here priority is used if the player is in more than 1 group. An example use could be having separate join audio for staff and VIPs, if a player was on both list the audio with the higher priority number would be used.
+The other option here priority is used if the player is in more than 1 group. An example use could be having separate join audio for staff and VIPs, if a player was on both lists the audio with the higher priority number would be used.
 
 **Notes:**
 
@@ -136,7 +136,6 @@ The other option here priority is used if the player is in more than 1 group. An
 A group display can be used to display all the players in a group, ideal for displaying a list of your supporters. Group display can also highlight the names of players in the world.
 
 Find the `Permission System - Group Display` prefab and drag it in also and unpack it. Now select it and press the `Auto Set Manager` button.
-`Permission System - Group Display`
 
 Now simply select the group you want to display and we are done.  
 ![5463befd8d1ae73fe80934325ac79787.png](resources/5463befd8d1ae73fe80934325ac79787.png)  
